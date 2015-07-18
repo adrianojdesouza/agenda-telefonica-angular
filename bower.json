@@ -1,0 +1,13 @@
+{
+  "name": "agenda-angular",
+  "version": "0.0.0",
+  "authors": [
+    "adrianojsouza <adrianojdesouza@gmail.com>"
+  ],
+  "description": "Agenda telefonica para estudo de angular",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "1.4.3"
+  }
+}
